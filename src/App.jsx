@@ -1,7 +1,9 @@
+import Sidebar from "./movies/sidebar/Sidebar";
+
 function App() {
   return (
     <>
-      <h1>React App</h1>
+      <Sidebar />
     </>
   );
 }
